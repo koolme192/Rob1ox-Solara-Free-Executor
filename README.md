@@ -6,7 +6,7 @@
 
 ![image](https://github.com/user-attachments/assets/722aef52-4532-4b6c-b8c9-c410d094180b)
 
-• Unzip using password Github
+### • Unzip using password Github
 
 • Open the executor application and follow the on-screen instructions to complete the installation process.
 
